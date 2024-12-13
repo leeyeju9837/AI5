@@ -78,17 +78,17 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/DDBBT8S/1.jpg",
+            "https://i.ibb.co/pv5nnfz/2.jpg",
+            "https://i.ibb.co/h9mh8hj/3.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
+            "https://www.youtube.com/watch?v=Gip8gs4VUPk",
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "납작만두는 맛있어!",
+            "광일이는 너무 귀여워",
             "Label 1 관련 두 번째 텍스트 내용입니다.",
             "Label 1 관련 세 번째 텍스트 내용입니다."
         ]
@@ -111,6 +111,23 @@ content_data = {
         ]
     },
     labels[2]: {
+        'images': [
+            "https://via.placeholder.com/300?text=Label3_Image1",
+            "https://via.placeholder.com/300?text=Label3_Image2",
+            "https://via.placeholder.com/300?text=Label3_Image3"
+        ],
+        'videos': [
+            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
+            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+        ],
+        'texts': [
+            "비빔냉면은 납작만두와 잘어울려!",
+            "Label 3 관련 두 번째 텍스트 내용입니다.",
+            "Label 3 관련 세 번째 텍스트 내용입니다."
+        ]
+    },
+    labels[3]: {
         'images': [
             "https://via.placeholder.com/300?text=Label3_Image1",
             "https://via.placeholder.com/300?text=Label3_Image2",

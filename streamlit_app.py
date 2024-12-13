@@ -84,13 +84,13 @@ content_data = {
         ],
         'videos': [
             "https://www.youtube.com/watch?v=Gip8gs4VUPk",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=_kMmnRJs5t4",
+            "https://www.youtube.com/watch?v=bh4eJT-KiSI"
         ],
         'texts': [
             "광일이는 너무 귀여워",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "광일이가 닮은 동물은 곰이야.",
+            "광일이는 원래 베이스를 했다가 드럼으로 바뀌었어."
         ]
     },
     labels[1]: {
@@ -101,30 +101,30 @@ content_data = {
         ],
         'videos': [
             "https://www.youtube.com/watch?v=abdTaW9_j6M",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://www.youtube.com/watch?v=yEAk4QzZ4Vo",
+            "https://www.youtube.com/watch?v=yAPyU618qaQ"
         ],
         'texts': [
             "예찬이는 바이올린을 너무 잘해",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "예찬이는 너무 좋은 맏형이야",
+            "예찬이가 닮은 동물은 강아지야"
         ]
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://i.ibb.co/F7FmGgQ/9.jpg",
+            "https://i.ibb.co/k1hTpHR/8.jpg",
+            "https://i.ibb.co/XzfFFT5/7.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=Tv6UaZ_9XzU",
+            "https://www.youtube.com/watch?v=kqGVNHSOuM4",
+            "https://www.youtube.com/watch?v=qYeERHUipa4"
         ],
         'texts': [
-            "비빔냉면은 납작만두와 잘어울려!",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "원상이는 베이스를 너무 잘쳐",
+            "원상이는 경희대를 나왔어",
+            "원상이의 닮은 동물은 너구리야"
         ]
     },
     labels[3]: {

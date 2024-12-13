@@ -129,19 +129,19 @@ content_data = {
     },
     labels[3]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://i.ibb.co/TMM20nG/12.jpg",
+            "https://i.ibb.co/PDtLYhN/11.jpg",
+            "https://i.ibb.co/vD8HLjd/10.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=WE2WqQf0wq4",
+            "https://www.youtube.com/watch?v=xxtvr690ZJg",
+            "https://www.youtube.com/watch?v=qoVnGUZqGio"
         ],
         'texts': [
-            "비빔냉면은 납작만두와 잘어울려!",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "상엽이는 목소리가 좋아",
+            "상엽이는 노래를 엄청잘해",
+            "상엽이가 닮은 동물은 다람쥐야야"
         ]
     }
 }
